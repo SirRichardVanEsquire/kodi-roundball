@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.fullmatches"
+<addon id="plugin.video.roundball"
 version="1.2.0"
-name="Full Matches"
+name="Roundball"
 provider-name="feetball">
 <requires>
   <import addon="xbmc.python" version="2.14.0"/>
@@ -10,8 +10,8 @@ provider-name="feetball">
   <provides>video</provides>
 </extension>
 <extension point="xbmc.addon.metadata">
-  <summary lang="en">Full Matches</summary>
-  <description lang="en">Full football matches on demand</description>
-  <disclaimer lang="en">Videos are provided by footballmatchesandshows</disclaimer>
+  <summary lang="en">Rounball streaming</summary>
+  <description lang="en">Full football matches</description>
+  <disclaimer lang="en">Videos are currently provided by footballmatchesandshows</disclaimer>
 </extension>
 </addon>
