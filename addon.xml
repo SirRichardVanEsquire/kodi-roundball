@@ -2,7 +2,7 @@
 <addon id="plugin.video.roundball"
 version="1.2.0"
 name="Roundball"
-provider-name="feetball">
+provider-name="SirRichardVanEsquire">
 <requires>
   <import addon="xbmc.python" version="2.14.0"/>
 </requires>

@@ -19,18 +19,6 @@ _url = sys.argv[0]
 # Get the plugin handle as an integer number.
 _handle = int(sys.argv[1])
 
-#VIDEOS = {'Animals': [{'name': 'Crab',
-#                       'thumb': 'http://www.vidsplay.com/vids/crab.jpg',
-#                       'video': 'http://www.vidsplay.com/vids/crab.mp4',
-#                       'genre': 'Animals'},
-#                      ],
-#            'Cars': [{'name': 'Postal Truck',
-#                      'thumb': 'http://www.vidsplay.com/vids/us_postal.jpg',
-#                      'video': 'http://www.vidsplay.com/vids/us_postal.mp4',
-#                      'genre': 'Cars'}
-#                     ],
-#                     ]}
-
 VIDEOS = {}
 baseurl = "http://fullmatchesandshows.com"
 
